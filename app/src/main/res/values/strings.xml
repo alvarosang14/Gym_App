@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gym</string>
+
+    <!--> Main </-->
+    <string name="button_main">Calculardora de PR</string>
+
+    <!--> Calculadora de PR </-->
+    <string name="text_edit_1">Peso levantado</string>
+    <string name="text_edit_2">Numero de repeticiones</string>
+    <string name="button1">Calcular</string>
+    <string name="result">Resultado</string>
+
+</resources>
